@@ -2,8 +2,11 @@ package model;
 
 /**
  *
- * @author vivalaklask
+ * @author RobertElving
  */
 class Piece {
 
+    
+    Type type;
+    
 }

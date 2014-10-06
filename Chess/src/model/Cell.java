@@ -4,7 +4,7 @@ import model.Piece;
 
 /**
  *
- * @author Robert
+ * @author RobertElving
  */
 class Cell {
 

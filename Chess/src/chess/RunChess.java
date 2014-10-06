@@ -2,7 +2,7 @@ package chess;
 
 /**
  *
- * @author Robert
+ * @author RobertElving
  */
 public class RunChess {
 
